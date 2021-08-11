@@ -1,2 +1,2 @@
 # Django-Website
-Django Website with photographer theme with HTML and CSS
+Django Website with photograph theme with HTML and CSS
